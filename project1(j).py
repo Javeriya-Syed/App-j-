@@ -37,6 +37,7 @@ if(choice==2):
         print(a)
     if(a==c):
         print(b)
+    print("wrong input--Enter again to find extra number")
 if(choice==3):
     print("Candies---Here children will get equal candies")
     n=int(input("Enter number of children:"))
